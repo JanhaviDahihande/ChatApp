@@ -1,16 +1,6 @@
-# Outro
+# ChatApp
 
-Quick start:
+A chat app created in React using Pusher Chatkit API.
 
-```
-$ npm install
-$ npm run build
-````
+## Screenshots
 
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ npm run watch
-```
